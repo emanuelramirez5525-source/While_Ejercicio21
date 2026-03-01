@@ -1,1 +1,1 @@
-﻿// Sumar números ingresados hasta que el total supere 100.
+﻿// Sumar números ingresados hasta que el total supere 100
